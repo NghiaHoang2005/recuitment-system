@@ -1,0 +1,15 @@
+# Java
+target/
+*.log
+
+# IDE
+.idea/
+.vscode/
+*.iml
+
+# Node / Frontend
+node_modules/
+dist/
+
+# OS
+.DS_Store
